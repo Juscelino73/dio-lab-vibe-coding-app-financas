@@ -87,3 +87,25 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+
+entrega de projeto:
+meu PROMPT fianl:"
+**Papel:** Aja como um Gerente de Produto especialista em FinTech e UX conversacional, com foco em MVP para startups.
+**Contexto:** O projeto é um aplicativo de finanças pessoais baseado em chat para o mercado brasileiro, voltado para iniciantes. O orçamento e timeline são enxutos, priorizando validação rápida. A tecnologia front-end pode ser React Native para agilidade.
+**Instruções:**
+1.  **Elabore um Plano de MVP** com as seguintes seções:
+    a.  **Arquitetura de Telas e Fluxo:** Liste as 4-5 telas principais (ex.: Onboarding/Cadastro, Chat Principal, Dashboard Resumo, Tela de Metas, Configurações) e descreva o fluxo de navegação essencial entre elas.
+    b.  **Recursos Técnicos Necessários:** Especifique os componentes para Fase 1 (MVP):
+        - Front-end: Framework (ex.: React Native), biblioteca de UI, biblioteca de gráficos simples.
+        - Back-end: Linguagem/API para receber mensagens, banco de dados para usuários/transações, integração com um serviço de PLN/NLU (ex.: Dialogflow, ou modelo leve open-source) para classificação básica de intenções (ex.: "registrar gasto", "ver saldo").
+        - Funcionalidades: Registro via chat, classificação automática (regras baseadas em palavras-chave inicialmente), dashboard com gráficos simples, definição manual de 1 meta.
+    c.  **Esboço de Validação Inicial:** Proponha um método em duas etapas:
+        - Etapa 1: Protótipo de alta fidelidade (no Figma) do fluxo de conversa e dashboard para coletar feedback de 5-10 potenciais usuários.
+        - Etapa 2: Versão "MVP Mínimo" funcional (apenas registro via chat e dashboard básico) para um grupo fechado de 20-30 beta testers, medindo adesão e satisfação.
+    d.  **Priorização (Fase 1 vs. Fase 2):**
+        - Fase 1 (MVP Lançável): Chat de registro, classificação por palavras-chave, dashboard com 2 gráficos (gastos por categoria, evolução mensal), 1 meta financeira simples, cadastro/login.
+        - Fase 2 (Pós-Validação): "Agente Financeiro" com dicas automáticas, relatórios personalizados exportáveis, classificação via ML, múltiplas metas, integrações (ex.: bancos).
+2.  **Utilize um tom educativo e acessível**, explicando conceitos de produto e MVP de forma clara.
+**Formato:** Estruture a resposta como um documento formal em português, com títulos, subtítulos e listas de tópicos para fácil leitura. Use marcação simples para destacar itens importantes.
+"
